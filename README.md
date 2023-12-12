@@ -4,7 +4,8 @@ This program should allow you to anonymously assign Secret Santas and inform the
 
 ## steps
 First you have to set up the data collection. 
-### 1) **Open** [this survey]([https://link-url-here.org](https://docs.google.com/forms/d/e/1FAIpQLSdDBRlwgedBMo5LfiG_P6y2nMSRmlMN8SPA5oJJR5714bjJ2Q/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSdDBRlwgedBMo5LfiG_P6y2nMSRmlMN8SPA5oJJR5714bjJ2Q/viewform?usp=sf_link) and **make a copy**. If you donn't make a copy, I'll have access to your data instead of you
+### 1) **Open** 
+[this survey]([https://link-url-here.org](https://docs.google.com/forms/d/e/1FAIpQLSdDBRlwgedBMo5LfiG_P6y2nMSRmlMN8SPA5oJJR5714bjJ2Q/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSdDBRlwgedBMo5LfiG_P6y2nMSRmlMN8SPA5oJJR5714bjJ2Q/viewform?usp=sf_link) and **make a copy**. If you donn't make a copy, I'll have access to your data instead of you
 
 <img src="https://github.com/AchillesHackerGod/Secret-Santa-with-Pyhton/assets/153163993/ff893372-ac52-4c90-8e20-49b15b0bc576.png" height="300">
 
