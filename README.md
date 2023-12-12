@@ -13,7 +13,7 @@ First you have to set up the data collection.
 
 This will open the Google Sheet
 
-### 3) Set the Google Sheet to sharing and copy the URL. **Not the link for sharing** but the **URL of the Sheet** as marked in the picture. Make sure the Sheet is set for sharing as shwon in the picture. 
+### 3) Set the Google Sheet to sharing and copy the URL. **Not the link for sharing** but the **URL of the Sheet** as marked in the picture. Make sure the Sheet is set for sharing as shown in the picture. 
 
 <img src="https://github.com/AchillesHackerGod/Secret-Santa-with-Pyhton/assets/153163993/bf336aa1-e9ba-4f7a-9ad2-28a12c2f0298.png" height="300">
 
