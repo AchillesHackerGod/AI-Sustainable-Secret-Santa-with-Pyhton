@@ -1,5 +1,6 @@
 # AI Sustainable Secret Santa with Python
 ## An easy, anonymous, AI supported and sustaible Secret Santa
+##### Update: The openai API access key is automaticly blocked when the code is uploaded. If interested, feel free to ask for the code and i will send it to you privately with a working key
 This program should allow you to anonymously assign Secret Santas and inform the Secret Santas of their recipients by mail. This is done by collecting personal inforamtion along gift wishes with a google survey. By adding gift wishes and themes like sustainability, this program makes sure, that less presents end up in the bin directly after christmas. In conlusion, this program is set to make your Secret Santa organization easier, more anonymously and sustainable. 
 
 ## steps
